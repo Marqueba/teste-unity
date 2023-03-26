@@ -1,5 +1,5 @@
-# teste-unity
-Primeiro Teste utilizando o template de terceira pessoa do Unity
+# Teste Unity
+Primeiro Teste utilizando o Starter Assets - Third Person Controller do Unity Assets, integrando com a Web.
 <p align="center">
   <img alt="Preview" src=".github/preview.png" width="100%">
 </p>
